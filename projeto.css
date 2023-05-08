@@ -1,0 +1,35 @@
+header{ 
+    color: rgb(255, 115, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 554;
+  background-color: #261B2F;
+}
+
+.logo{
+    width: 150px;
+    
+       
+
+    
+}
+.titulo-centralizado {
+    text-align: center;
+    color: rgb(8, 61, 249) }
+
+body{
+    background-color: #32184A;
+   
+}
+
+.corpo {
+  
+}
+.titulo-principal {
+	padding-right: 10px;
+    display:inline;
+
+     }
+.volta{
+    width: 8%;
+}
