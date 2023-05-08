@@ -29,7 +29,10 @@ body{
    
 }
 .titulo-centralizado {
-    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    top: 50px;
+    right: -42%;
     color: rgb(8, 61, 249);
 
 }
@@ -39,23 +42,32 @@ font-size: semi-bold;
 
 
  .Objetivo{
-    text-align: center;
+    position: relative;
+    top: 100px;
+    right: 0%;
     color: #ffffff;
-     
-
  } 
+
  .img-projeto{
-     top: 9000px;
-  
-    padding: 100px 0;
-        right: 75%;
- display: inline;
- }
- .img-criadores{
-      display: inline; 
-    top: 9000px;
+  position: relative;
+    top: 175px;
+    right: -60%;
+    width: 1950px;
     margin: 0 auto;
-    padding: 100px 0;
-    
-   
  }
+
+ .img-criadores{
+   position: relative;
+    top: -225px;
+    right: -15%;
+    width: 1950px;
+    margin: 0 auto;
+ }
+
+ .veja{
+    text-transform: uppercase;
+    position: relative;
+    top: 150px;
+    right: -42%;
+        color: rgba(255, 0, 199, 1);
+     }
