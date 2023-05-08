@@ -1,0 +1,20 @@
+header{ 
+    color: rgb(255, 115, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 554;
+    background-color: rgba(46, 30, 60, 1);
+}
+
+.logo{
+    width: 150px;
+    
+}
+
+}
+.titulo-principal {
+	padding-right: 10px;
+    display:inline;
+
+     }
+
