@@ -43,9 +43,7 @@ header{
     display:inline;
 
      }
-.volta{
-    width: 8%;
-}
+
 
   .titulo-centralizado {
     text-transform: uppercase;
@@ -53,12 +51,20 @@ header{
     top: 100px;
    right: 0%;
     color: rgb(8, 61, 249);
-
+ 
 }
+.tex{
+       text-transform: uppercase;
+      position: relative;
+     top: 240px;
+    right:  -31%;
+    width:  400px;
+     margin-top: 0 auto  ;
+     color: #f8f5f5;  }
 .fiu{
     position: relative;
      top: 250px;
-    right:  -15%;
+    right:  -3%;
     width:  300px;
      margin-top: 0 auto  ;
     }
@@ -71,12 +77,25 @@ header{
 
     }
 
-    .tex{
+   
+.vid-tex{
+ 
       position: relative;
-     top: 300px;
+     top: 340px;
     right:  -31%;
-    width:  700px;
+    width:  200px;
      margin-top: 0 auto  ;
-     color: #f8f5f5;  
-    }
-       
+     color: #f8f5f5; 
+ text-transform: uppercase; 
+
+}
+.vid{
+  position: relative;
+     top: 350px;
+    right:  -41%;
+    width:  300px;
+     margin-top: 0 auto  ;
+
+}
+
+}
