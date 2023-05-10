@@ -58,20 +58,25 @@ header{
 .fiu{
     position: relative;
      top: 250px;
-    right:  -40%;
+    right:  -15%;
     width:  300px;
      margin-top: 0 auto  ;
     }
+.fiu2{
+      position: relative;
+     top: 250px;
+    right:  -55%;
+    width:  300px;
+     margin-top: 0 auto  ;
+
+    }
+
     .tex{
       position: relative;
-     top: 450px;
-    right:  -40%;
-    width:  300px;
-     margin-top: 0 auto  ;  
+     top: 300px;
+    right:  -31%;
+    width:  700px;
+     margin-top: 0 auto  ;
+     color: #f8f5f5;  
     }
-    .texx{
-      top: 400px;
-    right:  -40%;
-    width:  300px;
-     margin-top: 0 auto  ;     
-    }
+       
