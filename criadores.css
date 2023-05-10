@@ -1,13 +1,21 @@
 header{ 
-    color: rgb(255, 115, 0);
+    background-color: #261B2F;
     display: flex;
     justify-content: space-around;
     padding: 20px 554;
-    background-color: rgba(46, 30, 60, 1);
+    
+
+    .caixa {
+    position: relative;
+    width: 1400px;
+    margin: 0 auto;
 }
 
-.logo{
-    width: 150px;
+nav {
+    position:absolute;
+    top: 50px;
+    right: 75%;
+    color: rgba(214, 74, 30, 1);
     
 }
 
@@ -18,3 +26,6 @@ header{
 
      }
 
+ body{
+    background-color: #32184A;
+ }
