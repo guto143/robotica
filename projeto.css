@@ -31,8 +31,8 @@ header{
 
 
  body{
-    background-color: #32184A;
-   
+    background-image: linear-gradient(to bottom, rgba(10, 7, 13, 1), rgba(132, 65, 185, 0.58));
+   width: 100%;
 }
 
 .corpo {

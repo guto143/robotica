@@ -36,6 +36,7 @@ body{
     color: rgb(8, 61, 249);
 
 }
+
 .corpo{
 font-size: semi-bold;
 }
@@ -43,14 +44,15 @@ font-size: semi-bold;
 
  .Objetivo{
     position: relative;
+    width: 70%;
     top: 100px;
-    right: 0%;
+    right: -2%;
     color: #ffffff;
  } 
 
  .img-projeto{
   position: relative;
-    top: 175px;
+    top: -5px;
     right: -60%;
     width: 1950px;
     margin: 0 auto;
@@ -58,7 +60,7 @@ font-size: semi-bold;
 
  .img-criadores{
    position: relative;
-    top: -225px;
+    top: 489px;
     right: -15%;
     width: 1950px;
     margin: 0 auto;
@@ -68,9 +70,38 @@ font-size: semi-bold;
     text-transform: uppercase;
     position: relative;
     top: 150px;
-    right: -42%;
+    right: -32%;
+        color: rgba(255, 0, 199, 1);
+     }
+.TEXTO{
+    text-transform: uppercase;
+    position: relative;
+     width: 70%;
+    top: 250px;
+    right: -2%;
+        color: #ffffff;
+     }
+ .la-ele{
+    text-transform: uppercase;
+    position: relative;
+    top: 390px;
+    right: -43%;
         color: rgba(255, 0, 199, 1);
      }
 
- .liCriadores {
-   
+
+.cria {
+    text-transform: none;
+    position: relative;
+    top: 250px;
+    right: -23%;
+    color: black; 
+}
+
+.proj {
+   text-transform: none;
+    position: relative;
+    top: -246px;
+    right: -69%;
+    color: black;  
+}

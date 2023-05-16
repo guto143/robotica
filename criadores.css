@@ -1,51 +1,93 @@
 header{ 
-    background-color: #261B2F;
+    color: rgb(255, 115, 0);
     display: flex;
     justify-content: space-around;
     padding: 20px 554;
+  background-color: #261B2F;
 }
 
-   .caixa {
+.caixa {
     position: relative;
     width: 1400px;
-    margin: 0 auto;
-}
+    margin: 0 auto;    
+   }
 
-nav {
+   nav {
     position: absolute;
     top: 50px;
     right: 75%;
-    color: rgba(253, 137, 0, 1);
+    color: rgba(214, 74, 30, 1); 
 }
 
+.titulo-centralizado {
+    text-align: center;
+    color: rgb(8, 61, 249) }
+
+
+ body{
+    background-image: linear-gradient(to bottom, rgba(10, 7, 13, 1), rgba(132, 65, 185, 0.58));
+   width: 100%;
+  
+}
 
 .titulo-principal {
     padding-right: 10px;
     display:inline;
-}
+ }
 
-body{
-    background-image: linear-gradient(to bottom, rgba(10, 7, 13, 1), rgba(132, 65, 185, 0.58));
-    width: 100%;
-}
-
-.titulo-centralizado {
+  .titulo-centralizado {
     text-transform: uppercase;
     position: relative;
-    top: 50px;
-    right: -42%;
-    color: rgb(8, 61, 249);
+    top: 100px;
+   right: 0%;
+    color: rgb(8, 61, 249);}
 
-}
-
-.corpo{
+    .corpo{
 font-size: semi-bold;
 }
 
-.img-GUTO{
+.augusto{
+
+  position: relative;
+     top: 190px;
+    right:  -20%;
+     margin-top: 0 auto;
+}
+
+.guto {
+    text-transform: none;
     position: relative;
-    top: 175px;
-    right: -60%;
-    width: 1950px;
-    margin: 0 auto;
+    top: 170px;
+    right: -24%;
+    color: black;
+}
+
+.emily{
+    position: relative;
+     top: -147px;
+    right:  -55%;
+     margin-top: 0 auto;
+}
+
+.emy {
+    text-transform: none;
+    position: relative;
+    top: -170px;
+    right: -59%;
+    color: black; 
+}
+
+.gabriela {
+    position: relative;
+     top: -100px;
+    right:  -5%;
+     margin-top: 0 auto;
+}
+
+.gabi {
+    text-transform: none;
+    position: relative;
+    top: -124px;
+    right: -8%;
+    color: black; 
 }
