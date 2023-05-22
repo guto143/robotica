@@ -91,3 +91,25 @@ font-size: semi-bold;
     right: -8%;
     color: black; 
 }
+
+.julia {
+    position: relative;
+    top: -506px;
+    right: -37%;
+    margin-top: 0 auto;
+}
+
+.ju{
+    text-transform: none;
+    position: relative;
+    top: -525px;
+    right: -39% ;
+    color: black;
+}
+
+.kemyle {
+    position: relative;
+    top: -919px;
+    right: -70%;
+    margin: 0 auto;
+}
