@@ -63,14 +63,14 @@ header{
      color: #f8f5f5;  }
 .fiu{
     position: relative;
-     top: 200px;
+     top: 190px;
     right:  -13%;
     width:  300px;
      margin-top: 0 auto  ;
     }
 .fiu2{
       position: relative;
-     top: 200px;
+     top: 30px;
     right:  -3%;
     width:  300px;
      margin-top: 0 auto  ;
@@ -90,12 +90,12 @@ header{
 
 }
 .vid{
+  
   position: relative;
-     top: -257px;
-    right:  -70%;
-    width:  300px;
-     margin-top: 0 auto  ;
+  top: 190px;
+ right:  -23%;
+ width:  300px;
+  margin-top: 0 auto  ;
 
 }
 
-}
