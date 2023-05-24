@@ -113,3 +113,11 @@ font-size: semi-bold;
     right: -70%;
     margin: 0 auto;
 }
+
+.kemy {
+    text-transform: none;
+    position: relative;
+    top: -935px;
+    right: -73%;
+    color: black;
+}
