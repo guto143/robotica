@@ -1,0 +1,100 @@
+header{ 
+    color: rgb(255, 115, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 554;
+  background-color: #261B2F;
+}
+
+.caixa {
+    position: relative;
+    width: 1400px;
+    margin: 0 auto;    
+   }
+
+   nav {
+    position: absolute;
+    top: 50px;
+    right: 75%;
+    color: rgba(214, 74, 30, 1); 
+}
+
+.titulo-centralizado {
+    text-align: center;
+    color: rgb(8, 61, 249) }
+
+.logo{
+
+
+    
+}
+
+
+ body{
+    background-image: linear-gradient(to bottom, rgba(10, 7, 13, 1), rgba(132, 65, 185, 0.58));
+   width: 100%;
+}
+
+.corpo {
+  
+}
+.titulo-principal {
+    padding-right: 10px;
+    display:inline;
+
+     }
+
+
+  .titulo-centralizado {
+    text-transform: uppercase;
+    position: relative;
+    top: 100px;
+   right: 0%;
+    color: rgb(8, 61, 249);
+ 
+}
+.tex{
+       text-transform: uppercase;
+      position: relative;
+     top: 130px;
+    right:  -11%;
+    width:  800px;
+     margin-top: 0 auto  ;
+     color: #f8f5f5;  }
+.fiu{
+    position: relative;
+     top: 190px;
+    right:  -13%;
+    width:  300px;
+     margin-top: 0 auto  ;
+    }
+.fiu2{
+      position: relative;
+     top: 30px;
+    right:  -3%;
+    width:  300px;
+     margin-top: 0 auto  ;
+
+    }
+
+   
+.vid-tex{
+ 
+      position: relative;
+     top: 340px;
+    right:  -31%;
+    width:  200px;
+     margin-top: 0 auto  ;
+     color: #f8f5f5; 
+ text-transform: uppercase; 
+
+}
+.vid{
+  
+  position: relative;
+  top: 190px;
+ right:  -23%;
+ width:  300px;
+  margin-top: 0 auto  ;
+
+}
