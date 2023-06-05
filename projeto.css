@@ -63,7 +63,7 @@ header{
      color: #f8f5f5;  }
 .fiu{
     position: relative;
-     top: 190px;
+     top: 25px;
     right:  -13%;
     width:  300px;
      margin-top: 0 auto  ;
@@ -92,9 +92,17 @@ header{
 .vid{
   
   position: relative;
-  top: 190px;
- right:  -23%;
+  top: 19px;
+ right:  -25%;
  width:  300px;
   margin-top: 0 auto  ;
 
+}
+
+.emo {
+    text-align: short;
+    position: relative;
+    top: 50px;
+    right: 0%;
+    color: black;
 }
