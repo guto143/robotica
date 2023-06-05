@@ -2,18 +2,41 @@ header{
     background-color: #261B2F;
     display: flex;
     justify-content: space-around;
-    padding: 20px 554;
+    padding: -50% 554;
 }
 
    .caixa {
     position: relative;
-    width: 1400px;
+    width: 1400%;
     margin: 0 auto;
 }
 
 nav {
     position: absolute;
     top: 50px;
+    prototpo.jpg
+    prototpo2.jpg
+    style.css
+    volta.jpg
+    Documentation • Share feedback
+    Breadcrumbsrobotica
+    /projeto.jpg
+    ￼
+    ￼
+    Latest commit
+    ￼
+    guto143
+    Add files via upload
+    ￼
+    fc679a5
+     · 
+    last month
+    History
+    History
+    File metadata and controls
+    18.2 KB
+    ￼
+    
     right: 75%;
     color: rgba(253, 137, 0, 1);
 }
