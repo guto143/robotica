@@ -1,49 +1,27 @@
 header{ 
-    background-color: #261B2F;
+    color: rgb(255, 115, 0);
     display: flex;
     justify-content: space-around;
-    padding: -50% 554;
+    padding: 30% 0,01%;
+  background-color: #261B2F;
 }
 
    .caixa {
     position: relative;
-    width: 1400%;
-    margin: 0 auto;
+    width: 140%;
+    margin: 0% auto;
 }
 
 nav {
     position: absolute;
-    top: 50px;
-    prototpo.jpg
-    prototpo2.jpg
-    style.css
-    volta.jpg
-    Documentation • Share feedback
-    Breadcrumbsrobotica
-    /projeto.jpg
-    ￼
-    ￼
-    Latest commit
-    ￼
-    guto143
-    Add files via upload
-    ￼
-    fc679a5
-     · 
-    last month
-    History
-    History
-    File metadata and controls
-    18.2 KB
-    ￼
-    
+    top: 30%;
     right: 75%;
     color: rgba(253, 137, 0, 1);
 }
 
 
 .titulo-principal {
-	padding-right: 10px;
+	padding-right: 10%;
     display:inline;
 }
 
@@ -54,7 +32,7 @@ body{
 .titulo-centralizado {
     text-transform: uppercase;
     position: relative;
-    top: 50px;
+    top: 15%;
     right: -42%;
     color: rgb(8, 61, 249);
 
@@ -68,24 +46,24 @@ font-size: semi-bold;
  .Objetivo{
     position: relative;
     width: 70%;
-    top: 100px;
+    top: 50%;
     right: -2%;
     color: #ffffff;
  } 
 
  .img-projeto{
   position: relative;
-    top: -5px;
+    top: -5%;
     right: -60%;
-    width: 1950px;
-    margin: 0 auto;
+    width: 105%;
+    margin: 0% auto;
  }
 
  .img-criadores{
    position: relative;
-    top: 489px;
+    top: 450px ;
     right: -15%;
-    width: 1950px;
+    width: 105%;
     margin: 0 auto;
  }
 
