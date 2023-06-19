@@ -22,6 +22,8 @@ nav {
 
 .titulo-principal {
 	padding-right: 10%;
+    width: 10%;
+    right: 10%%;
     display:inline;
 }
 
@@ -33,7 +35,7 @@ body{
     text-transform: uppercase;
     position: relative;
     top: 15%;
-    right: -42%;
+    right: -2%;
     color: rgb(8, 61, 249);
 
 }
@@ -53,7 +55,7 @@ font-size: semi-bold;
 
  .img-projeto{
   position: relative;
-    top: -5%;
+    top: 15%%;
     right: -60%;
     width: 105%;
     margin: 0% auto;
@@ -61,7 +63,7 @@ font-size: semi-bold;
 
  .img-criadores{
    position: relative;
-    top: 450px ;
+    top: 15% ;
     right: -15%;
     width: 105%;
     margin: 0 auto;
@@ -85,7 +87,7 @@ font-size: semi-bold;
  .la-ele{
     text-transform: uppercase;
     position: relative;
-    top: 390%;
+    top: 90%;
     right: -3%;
         color: rgba(255, 0, 199, 1);
      }
@@ -94,7 +96,7 @@ font-size: semi-bold;
 .cria {
     text-transform: none;
     position: relative;
-    top: 250px;
+    top: 20%;
     right: -23%;
     color: black; 
 }
@@ -102,7 +104,7 @@ font-size: semi-bold;
 .proj {
    text-transform: none;
     position: relative;
-    top: -246px;
+    top: -4%;
     right: -69%;
     color: black;  
 }
