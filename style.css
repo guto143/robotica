@@ -70,23 +70,23 @@ font-size: semi-bold;
  .veja{
     text-transform: uppercase;
     position: relative;
-    top: 150px;
-    right: -32%;
+    top: 15%;
+    right: -2%;
         color: rgba(255, 0, 199, 1);
      }
 .TEXTO{
     text-transform: uppercase;
     position: relative;
      width: 70%;
-    top: 250px;
+    top: 250%;
     right: -2%;
         color: #ffffff;
      }
  .la-ele{
     text-transform: uppercase;
     position: relative;
-    top: 390px;
-    right: -43%;
+    top: 390%;
+    right: -3%;
         color: rgba(255, 0, 199, 1);
      }
 
