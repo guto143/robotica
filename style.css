@@ -55,7 +55,7 @@ font-size: semi-bold;
 
  .img-projeto{
   position: relative;
-    top: 15%%;
+    top: -320px;
     right: -60%;
     width: 105%;
     margin: 0% auto;
@@ -63,7 +63,7 @@ font-size: semi-bold;
 
  .img-criadores{
    position: relative;
-    top: 15% ;
+    top: 50px;
     right: -15%;
     width: 105%;
     margin: 0 auto;
@@ -96,8 +96,8 @@ font-size: semi-bold;
 .cria {
     text-transform: none;
     position: relative;
-    top: 20%;
-    right: -23%;
+    top: -30px;
+    right: -17%;
     color: black; 
 }
 
@@ -105,6 +105,6 @@ font-size: semi-bold;
    text-transform: none;
     position: relative;
     top: -4%;
-    right: -69%;
+    right: -63%;
     color: black;  
 }
