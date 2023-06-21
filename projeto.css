@@ -117,8 +117,15 @@ header{
 
 .acai {
     position: relative;
-    top: 380px;
-    right: 10%;
+    top: 250px;
+    right: -10%;
     width: 300px;
     margin-top: 0 auto;
 }
+
+.ninho {
+    position: relative;
+    top: -500%;
+    right:-20%;
+    margin-top:0 auto;
+} 
