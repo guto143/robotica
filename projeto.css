@@ -117,15 +117,23 @@ header{
 
 .acai {
     position: relative;
-    top: 250px;
+    top: 270px;
     right: -10%;
-    width: 300px;
+    width: 310px;
     margin-top: 0 auto;
 }
 
 .ninho {
     position: relative;
-    top: -500%;
-    right:-20%;
+    top: 280px;
+    right:-25%;
     margin-top:0 auto;
 } 
+.banana {
+    position: relative;
+    top:270px ;
+    right: -20;
+    margin:0 auto ;
+
+
+}
