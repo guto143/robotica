@@ -132,7 +132,14 @@ header{
 .kiwi {
     position: relative;
     top: 290px ;
-    right:-20%;
+    right:-40%;
     margin:0 auto;
 
+}
+
+.coisa {
+    position: relative;
+    top: 850px ;
+    right: 42% ;
+    margin: 0 auto ;
 }
