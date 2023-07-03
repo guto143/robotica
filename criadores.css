@@ -143,3 +143,16 @@ font-size: semi-bold;
     right: 0% ;
     
 }
+@media screen and (min-width: 1024px) {
+
+.tpm{
+ top: 1000px;   
+}
+
+
+
+
+
+
+}
+    
