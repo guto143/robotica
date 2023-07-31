@@ -50,7 +50,7 @@ font-size: semi-bold;
 
   position: relative;
      top: 190px;
-    right:  -20%;
+    right:  -5%;
      margin-top: 0 auto;
 }
 
@@ -58,14 +58,14 @@ font-size: semi-bold;
     text-transform: none;
     position: relative;
     top: 170px;
-    right: -24%;
+    right: -8%;
     color: black;
 }
 
 .emily{
     position: relative;
      top: -147px;
-    right:  -55%;
+    right:  -37%;
      margin-top: 0 auto;
 }
 
@@ -73,7 +73,7 @@ font-size: semi-bold;
     text-transform: none;
     position: relative;
     top: -170px;
-    right: -59%;
+    right: -39%;
     color: black; 
 }
 
@@ -97,7 +97,9 @@ font-size: semi-bold;
     top: -506px;
     right: -37%;
     margin-top: 0 auto;
-}
+} 
+
+
 
 .ju{
     text-transform: none;
@@ -120,6 +122,20 @@ font-size: semi-bold;
     top: -935px;
     right: -73%;
     color: black;
+}
+.sthefany {
+    position: relative;
+    top: -1655px;
+    right: -70%;
+    margin-top: 0 auto;
+} 
+.sthe{
+    text-transform: none;
+    position: relative;
+    top: -1654px;
+    right: -71%;
+    color: black;
+
 }
 .morango {
     text-transform: none;
