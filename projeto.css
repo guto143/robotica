@@ -152,3 +152,27 @@ header{
     color: black;
     width: 70%;
 }
+
+.fe {
+    text-align: short;
+    position: relative;
+    top:350px;
+    right: -46%;
+    color: rgb(8, 61, 249);
+    width:70%;
+}
+
+.gato {
+    position: relative;
+    top:500px;
+    right:  -9%;
+    margin: 0 auto;
+}
+
+.fa { 
+    position: relative;
+    top:500px;
+    right:  -10%;
+    margin: 0 auto;
+
+}
