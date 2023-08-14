@@ -164,15 +164,22 @@ header{
 
 .gato {
     position: relative;
-    top:500px;
-    right:  -9%;
+    top:250px;
+    right:  -31%;
     margin: 0 auto;
 }
 
 .fa { 
     position: relative;
-    top:500px;
-    right:  -10%;
+    top:410px;
+    right:  5%;
+    margin: 0 auto;
+
+}
+.gui{
+    position: relative;
+    top: 250px;
+    right: -31%;
     margin: 0 auto;
 
 }
