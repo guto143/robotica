@@ -50,23 +50,23 @@ font-size: semi-bold;
 
 .augusto{
 
-  position: relative;
-     top: 198px;
-    right:  0%;
-     margin-top: 0 auto;
+  position: absolute;
+     top: 80px;
+    right:  50%;
 }
 
 .guto {
     text-transform: none;
     position: relative;
-    top: 130px;
+    top: 100px;
     right: 0%;
     color: black;
+    width: 50%;
 }
 
 .emily{
     position: relative;
-     top: 10px;
+     top: 100px;
     right:  -37%;
      margin-top: 0 auto;
 }
@@ -86,27 +86,11 @@ font-size: semi-bold;
      margin-top: 0 auto;
 }
 
-.gabi {
-    text-transform: none;
-    position: relative;
-    top: -124px;
-    right: -8%;
-    color: black; 
-}
-
-.julia {
-    position: relative;
-    top: -506px;
-    right: -37%;
-    margin-top: 0 auto;
-} 
-
-
 
 .ju{
     text-transform: none;
     position: relative;
-    top: -525px;
+    top: 200%;
     right: -39% ;
     color: black;
 }
@@ -161,9 +145,23 @@ font-size: semi-bold;
     right: 0% ;
     
 }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 320px) {
+    .augusto{
 
-
+        position: absolute;
+           top: 180px;
+          right:  50%;
+      }
+    .guto {
+       width: 20%;
+    }
+    .emily{
+        position: relative;
+         top: -50px;
+        right:  -37%;
+         margin-top: 0 auto;
+    }
+    
 
 
 
