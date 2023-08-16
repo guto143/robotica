@@ -51,17 +51,17 @@ font-size: semi-bold;
 .augusto{
 
   position: absolute;
-     top: 80px;
-    right:  50%;
+     top: 60%;
+    right:  55%;
 }
 
 .guto {
     text-transform: none;
     position: relative;
-    top: 100px;
-    right: 0%;
+    top: 80px;
+    right: 70%;
     color: black;
-    width: 50%;
+    
 }
 
 .emily{
@@ -146,12 +146,6 @@ font-size: semi-bold;
     
 }
 @media screen and (min-width: 320px) {
-    .augusto{
-
-        position: absolute;
-           top: 180px;
-          right:  50%;
-      }
     .guto {
        width: 20%;
     }
