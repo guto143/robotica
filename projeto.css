@@ -199,3 +199,11 @@ header{
     color: black;
     width:70%;
 }
+
+.computador {
+    position:relative;
+    top: 300px ;
+    right: -46% ;
+    color: black ;
+    width: 70% ;
+}
