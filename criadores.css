@@ -51,8 +51,8 @@ font-size: semi-bold;
 .augusto{
 
   position: absolute;
-     top: 60%;
-    right:  55%;
+     top: 30%;
+    right:  50%;
 }
 
 .guto {
@@ -65,8 +65,8 @@ font-size: semi-bold;
 }
 
 .emily{
-    position: relative;
-     top: 100px;
+    position: absolute;
+     top: 90%;
     right:  -37%;
      margin-top: 0 auto;
 }
