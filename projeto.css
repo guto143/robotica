@@ -99,12 +99,7 @@ header{
   margin-top: 0 auto  ;
 
 }
-
-.emo {
-    text-align: short;
-    position: relative;
-    top: 100px;
-    right: 0%;relative
+r
     color: black;
     width: 70%;
 }
@@ -194,16 +189,24 @@ header{
 .ble {
     text-align: short;
     position: relative;
-    top: 250px;
+    top: 100px;
     right: -46%;
     color: black;
-    width:70%;
+    width:40%;
 }
 
 .computador {
     position:relative;
-    top: 300px ;
+    top: 105px ;
     right: -46% ;
     color: black ;
+    width: 40% ;
+}
+
+.carro {
+    position: absolute;
+    top: 2500px ;
+    right: -15% ;
+    color: rgb(8, 61, 249); ;
     width: 70% ;
 }
