@@ -99,14 +99,10 @@ header{
   margin-top: 0 auto  ;
 
 }
-r
-    color: black;
-    width: 70%;
-}
 
 .ju {
     position: relative;
-    top: 150px ;
+    top: 200px ;
     right: -46% ;
     color: rgb(8, 61, 249);
 }
@@ -205,8 +201,24 @@ r
 
 .carro {
     position: absolute;
-    top: 2500px ;
+    top: 2800px ;
     right: -15% ;
     color: rgb(8, 61, 249); ;
     width: 70% ;
+}
+
+.carro2 {
+    position:absolute;
+    top: 2900px;
+    right: 27%;
+    color: black;
+    width: 70%;
+}
+
+.emo {
+    position: absolute;
+    top: 510px;
+    right: 5%;
+    color: black;
+    width: 20%;
 }
