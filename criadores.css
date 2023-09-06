@@ -52,53 +52,58 @@ font-size: semi-bold;
 
   position: absolute;
      top: 40%;
-    right:  50%;
+    right:  60%;
 }
 
 .guto {
     text-transform: none;
-    position: absolute;
-    top: 70%;
-    right: 50%;
+    position: absorelativelute;
+    top: 75%;
+    right: 60%;
     color: black;
     
 }
 
 .emily{
-    position:relative;
-     top:  90%;
-    right:  -37%;
+    position: absolute;
+     top: 40%;
+    right:  20%;
      margin-top: 0 auto;
 }
 
 .emy {
     text-transform: none;
-    position: relative;
-    top: 40%;
-    right: -39%;
+    position: absolute;
+    top: 125%;
+    right: 55%;
     color: black; 
 }
 
 .gabriela {
-    position: relative;
-     top: -100px;
-    right:  -5%;
+    position: absolute;
+     top: 1250px;
+    right:  50%;
      margin-top: 0 auto;
 }
 
-
 .ju{
     text-transform: none;
-    position: relative;
-    top: 200%;
-    right: -39% ;
+    position: absolute;
+    top: 1600px;
+    right: 55% ;
     color: black;
+}
+.julia{
+    position: absolute;
+    top: 80%;
+   right:  20%;
+    margin-top: 0 auto;
 }
 
 .kemyle {
-    position: relative;
-    top: -919px;
-    right: -70%;
+    position: absolute;
+    top: 80%;
+    right: 40%;
     margin: 0 auto;
 }
 
@@ -144,6 +149,13 @@ font-size: semi-bold;
     top: -680px ;
     right: 0% ;
     
+}
+.gabi {
+    text-transform: none;
+    position: absolute;
+    top: 1700px;
+    right: 55%;
+    color: black; 
 }
 @media screen and (min-width: 320px) {
     
