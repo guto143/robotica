@@ -222,11 +222,22 @@ header{
     color: black;
     width: 20%;
 }
-.after{
-    position: absolute;
-    top: 700px;
-    right: 10%;
-    color: black;
-    width: 70%;
 
+.after {
+    position: absolute;
+    top: 3060px;
+    right: 80%;
+}
+
+.bu {
+    position: absolute;
+    top: 3060px;
+    right: 63%;
+}
+
+.funciona {
+    position: absolute;
+    top: 3060px;
+    right: 45%;
+    margin-top: 0 auto;
 }
