@@ -241,3 +241,10 @@ header{
     right: 45%;
     margin-top: 0 auto;
 }
+
+.best {
+    position: absolute;
+    top: 3060px;
+    right: 25% ;
+    margin-top: 0 auto;
+}
