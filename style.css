@@ -23,8 +23,8 @@ nav {
 .titulo-principal {
 	padding-right: 10%;
     width: 10%;
-    right: 10%%;
-    display:inline;
+    right: 10%;
+    display: inline;
 }
 
 body{
@@ -107,4 +107,8 @@ font-size: semi-bold;
     top: -4%;
     right: -63%;
     color: black;  
+}
+
+.img-superprojeto {
+    
 }
