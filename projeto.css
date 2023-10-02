@@ -20,14 +20,15 @@ header{
 }
 
 .titulo-centralizado {
-    text-align: center;
+position: absolute;
+    right: 45%;
     color: aquamarine;
  }
 
 .jumento {
-    position: relative;
-    top: 180px;
-    right: -46%;
+    position: absolute;
+    top: 50%;
+    right: 45%;
     color:  rgb(8, 61, 249);
 }
 
@@ -36,20 +37,16 @@ header{
    width: 100%;
 }
 
-.corpo {
-  
-}
-.titulo-principal {
-    padding-right: 10px;
-    display:inline;
 
+.titulo-principal {
+    padding-right: 
      }
 
 
   .titulo-centralizado {
     text-transform: uppercase;
-    position: relative;
-    top: 100px;
+    position: absolute;
+    top: 60%;
    right: 0%;
     color: aquamarine;
  
@@ -65,7 +62,7 @@ header{
 .fiu{
     position: relative;
      top: 80px;
-    right:  -13%;
+    right:  -13%; 
     width:  300px;
      margin-top: 0 auto  ;
     }
@@ -139,7 +136,7 @@ header{
     text-align: short;
     position: relative;
     top: 260px;
-    right: 0%;relative
+    right: 0%;
     color: black;
     width: 70%;
 }
@@ -198,53 +195,10 @@ header{
     color: black ;
     width: 40% ;
 }
-
-.carro {
-    position: absolute;
-    top: 2800px ;
-    right: -15% ;
-    color: rgb(8, 61, 249); ;
-    width: 70% ;
-}
-
-.carro2 {
-    position:absolute;
-    top: 2900px;
-    right: 27%;
-    color: black;
-    width: 70%;
-}
-
 .emo {
     position: absolute;
     top: 510px;
     right: 5%;
     color: black;
     width: 20%;
-}
-
-.after {
-    position: absolute;
-    top: 3060px;
-    right: 80%;
-}
-
-.bu {
-    position: absolute;
-    top: 3060px;
-    right: 63%;
-}
-
-.funciona {
-    position: absolute;
-    top: 3060px;
-    right: 45%;
-    margin-top: 0 auto;
-}
-
-.best {
-    position: absolute;
-    top: 3060px;
-    right: 25% ;
-    margin-top: 0 auto;
 }
