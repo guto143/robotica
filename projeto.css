@@ -19,12 +19,6 @@ header{
     color: rgba(214, 74, 30, 1); 
 }
 
-.titulo-centralizado {
-position: absolute;
-    right: 45%;
-    color: aquamarine;
- }
-
 .jumento {
     position: absolute;
     top: 50%;
@@ -38,50 +32,43 @@ position: absolute;
 }
 
 
-.titulo-principal {
-    padding-right: 
-     }
 
-
-  .titulo-centralizado {
+.titulo-centralizado {
     text-transform: uppercase;
     position: absolute;
-    top: 60%;
+    top: 50%;
    right: 0%;
     color: aquamarine;
  
 }
 .tex{
        text-transform: uppercase;
-      position: relative;
-     top: 200px;
-    right:  -11%;
-    width:  800px;
+      position: absolute;
+     top: 77%;
+    right:  50%;
+    width:  50%;
      margin-top: 0 auto  ;
      color: #000000;  }
 .fiu{
-    position: relative;
-     top: 80px;
-    right:  -13%; 
-    width:  300px;
-     margin-top: 0 auto  ;
+    position: absolute;
+     top: 77%;
+    right:  13%; 
+    width: 15%;
     }
-.fiu2{
-      position: relative;
-     top: 80px;
-    right:  -3%;
-    width:  300px;
-     margin-top: 0 auto  ;
+.fiu{
+      position: absolute;
+     top: 80%;
+    right:  50%;
+    width: 15%;
 
     }
 
    
 .vid-tex{
  
-      position: relative;
-     top: 340px;
-    right:  -31%;
-    width:  200px;
+      position: absolute;
+     top: 89%;
+    right:  31%;
      margin-top: 0 auto  ;
      color: #f8f5f5; 
  text-transform: uppercase; 
@@ -93,6 +80,7 @@ position: absolute;
   top: 19px;
  right:  -25%;
  width:  300px;
+ width: 20%;
   margin-top: 0 auto  ;
 
 }
