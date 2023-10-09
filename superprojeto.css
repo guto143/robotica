@@ -20,6 +20,13 @@ header{
 }
 
 body{
-    background-image: linear-gradient(to bottom, rgba(10, 7, 13, 1), rgba(132, 65, 185, 0.58));
+    background-color: rgba(132, 65, 185, 0.58);
    width: 100%;
+}
+
+.apresentacao {
+    position: relative;
+    top: 20%;
+    right: -5px;
+    color: black;
 }
