@@ -110,5 +110,10 @@ font-size: semi-bold;
 }
 
 .img-superprojeto {
+    position: relative;
+    top: 230px;
+    right: -20%;
+    width: 85%;
+    margin: 0% auto;
     
 }
