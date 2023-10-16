@@ -26,7 +26,13 @@ body{
 
 .apresentacao {
     position: relative;
-    top: 20%;
-    right: -5px;
-    color: black;
+    top: 20px;
+    right: -40%;
+    color: rgb(10, 241, 87);
+
+}
+.agua{
+    position: relative;
+    top:30px ;
+    right:-10% ;
 }
