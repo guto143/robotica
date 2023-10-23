@@ -42,3 +42,9 @@ body{
     top:30px ;
     right:-20% ;
 }
+
+.jujuba {
+   position:  relative;   
+   top: -100px;
+   right: 31%;
+}
