@@ -33,25 +33,25 @@ body{
 }
 .agua{
     position: relative;
-    top:30px ;
-    right:-10% ;
+    top:85px ;
+    right:-9% ;
 }
 
 .fogo {
     position: relative;
-    top:-100px ;
-    right:8% ;
+    top:-310px ;
+    right:11% ;
 }
 
 .jujuba {
    position:  relative;   
-   top: -100px;
+   top: -111px;
    right: 31%;
 }
 
 .marmita {
    position: relative;
-   top: 50px;
-   right: -10%;
+   top: 90px;
+   right: -11%;
 
 }
