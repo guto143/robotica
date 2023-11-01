@@ -55,3 +55,15 @@ body{
    right: -11%;
 
 }
+
+.chuva {
+    position: relative;
+    top: 50px;
+    right: -35%;
+}
+ 
+.sol{
+    position: relative;
+    top:55px ;
+    right: -40;
+}
