@@ -43,23 +43,23 @@ header{
 }
 .tex{
        text-transform: uppercase;
-      position: absolute;
-     top: 77%;
-    right:  50%;
+      position: relative;
+     top: 77px;
+    right:  o%;
     width:  50%;
      margin-top: 0 auto  ;
      color: #000000;  }
 .fiu{
-    position: absolute;
-     top: 97%;
-    right:  13%; 
-    width: 15%;
+    position: relative;
+     top: 150px;
+    right:  50%; 
+
     }
 .fiu{
       position: absolute;
-     top: 80%;
+     top: 50%;
     right:  50%;
-    width: 15%;
+
 
     }
 
