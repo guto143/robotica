@@ -27,3 +27,9 @@ body{
     right: -30%;
     color: aqua;
 }
+
+.projetos {
+    position: relative;
+    top: -40px;
+    right: -30%;
+}
