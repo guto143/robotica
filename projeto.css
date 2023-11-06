@@ -45,42 +45,42 @@ header{
        text-transform: uppercase;
       position: relative;
      top: 77px;
-    right:  o%;
-    width:  50%;
+    right:  0%;
+    width:  30%;
      margin-top: 0 auto  ;
-     color: #000000;  }
+     color: #000000; 
+     }
 .fiu{
-    position: relative;
-     top: 150px;
-    right:  50%; 
+    position: absolute;
+     top: 70%;
+    right:  45%; 
 
     }
-.fiu{
+.fiu2{
       position: absolute;
-     top: 50%;
-    right:  50%;
+     top: 70%;
+    right:  60%;
 
 
     }
 
-   
-.vid-tex{
+   .vid{
+  
+  position: absolute;
+  top: 70%;
+ right:  30%;
+  margin-top: 0 auto  ;
+
+}
+
+.tex{
  
       position: absolute;
-     top: 100px;
+     top: 100%;
     right:  71%;
      margin-top: 0 auto  ;
      color: #f8f5f5; 
  text-transform: uppercase; 
-
-}
-.vid{
-  
-  position: relative;
-  top: 150px;
- right:  -25%;
- width:  15%;
-  margin-top: 0 auto  ;
 
 }
 
@@ -184,7 +184,7 @@ header{
 }
 .emo {
     position: absolute;
-    top: 510px;
+    top: 150%;
     right: 5%;
     color: black;
     width: 20%;
