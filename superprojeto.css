@@ -64,6 +64,12 @@ body{
  
 .sol{
     position: relative;
-    top:55px ;
-    right: -40;
+    top:90px ;
+    right:-9%;
+}
+
+.lua{
+    position: relative;
+    top:100px;
+    right:-51% ;
 }
