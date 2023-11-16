@@ -6,6 +6,7 @@ header{
     position: relative;
     top: 35px;
     right: -2%;
+    visibility: hidden;
 }
 
 .titulo-principal {
@@ -13,6 +14,7 @@ header{
     top: -78px;
     right: -15%;
     color: rgba(253, 137, 0, 1);
+    visibility: hidden;
 }
 
 
@@ -26,18 +28,21 @@ body{
     top: -5px;
     right: -30%;
     color: aqua;
+    visibility: hidden;
 }
 
 .projetos {
     position: relative;
-    top: 60px;
-    right: -30%;
+    top: 80px;
+    right: -50%;
+    visibility: hidden;
 }
 
 .criadores {
     position: relative;
-    top: 90px;
-    right: -30%;
+    top: -190px;
+    right: -20%;
+    visibility: hidden;
 }
 
 .texto {
@@ -45,7 +50,7 @@ body{
     top: 10px;
     right: -10%;
     color: black;
-  
+    visibility: hidden;
 }
 
 .meloso {
